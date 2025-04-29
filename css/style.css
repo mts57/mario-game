@@ -85,6 +85,12 @@
   z-index: 3;
 }
 
+.blue-strip {
+   width: 100%;
+  height: 214px;
+  background-color: #0074d9;
+}
+
 @keyframes pipe-animation {
   from {
     right: -80px;
